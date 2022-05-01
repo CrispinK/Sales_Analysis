@@ -1,4 +1,4 @@
-# 12 months sales data analysis
+# 12 MONTHS SALES DATA ANALYSIS
 
 ## Import necessary libraries
 
